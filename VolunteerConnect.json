@@ -1,9 +1,42 @@
-{
-  
-  "Sections": {
-    "1": "Animal Shelter",
-    "2": "Conservation",
-    "3":"Food Security",
-    "4":"Environmental"
+[
+  {
+    "id": 1,
+    "name": "Harmony Haven",
+    "description": "Harmony Haven is a volunteer-based organization dedicated to creating peaceful environments for abandoned animals. Join us in providing love, care, and a safe shelter for furry friends in need. Whether it's walking dogs, grooming cats, or organizing adoption events, every act of kindness at Harmony Haven makes a difference in the lives of these lovable companions.",
+    "stars": 5,
+    "longitude": 8.5417,
+    "latitude": 47.3769
+  },
+  {
+    "id": 2,
+    "name": "Green Thumb Society",
+    "description": "Join the Green Thumb Society and embark on a mission to transform urban spaces into thriving gardens. As a volunteer, you'll have the opportunity to cultivate gardens, plant trees, and educate the community on sustainable gardening practices. Let's come together to beautify our cities, promote biodiversity, and create greener, healthier environments for all.",
+    "stars": 4,
+    "longitude": 8.5456,
+    "latitude": 47.3635
+  },
+  {
+    "id": 3,
+    "name": "Artistic Expressions",
+    "description": "Artistic Expressions is a nonprofit organization that brings the joy of creativity to underprivileged children. Volunteer with us and help foster the artistic talents of young minds through various workshops and art projects. From painting to sculpture, our aim is to empower children to express themselves and discover the power of art as a form of self-expression.",
+    "stars": 5,
+    "longitude": 8.5414,
+    "latitude": 47.3769
+  },
+  {
+    "id": 4,
+    "name": "Food for All",
+    "description": "Food for All is dedicated to fighting hunger and food waste in our community. Join us in collecting surplus food from local businesses and distributing it to those in need. As a volunteer, you'll play a vital role in reducing food insecurity and promoting sustainable practices. Together, let's ensure that no one goes to bed hungry.",
+    "stars": 4,
+    "longitude": 8.5467,
+    "latitude": 47.3673
+  },
+  {
+    "id": 5,
+    "name": "EcoWarriors",
+    "description": "Are you passionate about protecting the environment? Join the EcoWarriors and be part of a movement that strives to make a lasting impact on our planet. Volunteer opportunities include organizing beach cleanups, conducting educational workshops on recycling, and participating in tree-planting initiatives. Let's stand together to preserve our natural resources for future generations.",
+    "stars": 5,
+    "longitude": 8.5411,
+    "latitude": 47.3690
   }
-}
+]
