@@ -7,7 +7,8 @@
     "longitude": 8.5417,
     "latitude": 47.3769,
     "priceperhour": 25,
-    "city": "Zurich"
+    "city": "Zurich",
+    "image":"images/harmonyhaven.png"
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "longitude": 8.5456,
     "latitude": 47.3635,
     "priceperhour": 23,
-    "city": "Winterthur"
+    "city": "Winterthur",
+    "image":"images/greenthumbsociety.png"
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "longitude": 8.5414,
     "latitude": 47.3769,
     "priceperhour": 28,
-    "city": "Rüschlikon"
+    "city": "Rüschlikon",
+    "image":"images/artisticexpressions.png"
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "longitude": 8.5467,
     "latitude": 47.3673,
     "priceperhour": 22,
-    "city": "Zollikon"
+    "city": "Zollikon",
+    "image":"images/foodforall.png"
   },
   {
     "id": 5,
@@ -47,6 +51,7 @@
     "longitude": 8.5411,
     "latitude": 47.3690,
     "priceperhour": 24,
-    "city": "Kilchberg"
+    "city": "Kilchberg",
+    "image":"images/ecowarriors.png"
   }
 ]
