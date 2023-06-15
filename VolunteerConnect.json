@@ -8,7 +8,9 @@
     "latitude": 47.3769,
     "priceperhour": 25,
     "city": "Zurich",
-    "image":"images/harmonyhaven.png"
+    "image":"images/harmonyhaven.png",
+    "section":"suggested"
+    
   },
   {
     "id": 2,
@@ -19,7 +21,8 @@
     "latitude": 47.3635,
     "priceperhour": 23,
     "city": "Winterthur",
-    "image":"images/greenthumbsociety.png"
+    "image":"images/greenthumbsociety.png",
+    "section":"suggested"
   },
   {
     "id": 3,
@@ -30,7 +33,8 @@
     "latitude": 47.3769,
     "priceperhour": 28,
     "city": "Rüschlikon",
-    "image":"images/artisticexpressions.png"
+    "image":"images/artisticexpressions.png",
+    "section":"suggested"
   },
   {
     "id": 4,
@@ -41,7 +45,8 @@
     "latitude": 47.3673,
     "priceperhour": 22,
     "city": "Zollikon",
-    "image":"images/foodforall.png"
+    "image":"images/foodforall.png",
+    "section":"suggested"
   },
   {
     "id": 5,
@@ -52,6 +57,62 @@
     "latitude": 47.3690,
     "priceperhour": 24,
     "city": "Kilchberg",
-    "image":"images/ecowarriors.png"
+    "image":"images/ecowarriors.png",
+    "section":"suggested"
+  },
+  {
+    "id": 6,
+    "name": "Tech Savvy Minds",
+    "description": "Tech Savvy Minds is a nonprofit organization that provides technology education and support to underserved communities. Join us in empowering individuals with digital literacy, teaching coding skills, and bridging the digital divide. Whether it's setting up computer labs, mentoring, or organizing workshops, your contribution at Tech Savvy Minds can change lives and open doors to a brighter future.",
+    "stars": 5,
+    "longitude": 8.5385,
+    "latitude": 47.3760,
+    "priceperhour": 26,
+    "city": "Affoltern am Albis",
+    "section": "mightlike"
+  },
+  {
+    "id": 7,
+    "name": "Build for a Cause",
+    "description": "Build for a Cause is dedicated to constructing safe and affordable housing for families in need. Join us on construction sites, where you can contribute to building homes, renovating spaces, and improving communities. Whether you're skilled in carpentry, plumbing, or painting, your expertise will make a tangible impact on the lives of those seeking a stable and comfortable place to call home.",
+    "stars": 4,
+    "longitude": 8.5393,
+    "latitude": 47.3775,
+    "priceperhour": 27,
+    "city": "Regensdorf",
+    "section": "mightlike"
+  },
+  {
+    "id": 8,
+    "name": "Business Minds",
+    "description": "Business Minds is a nonprofit organization focused on providing mentorship and entrepreneurial resources to aspiring individuals. Volunteer with us and help guide aspiring entrepreneurs, facilitate business workshops, and offer valuable insights to help startups thrive. Join our network of business professionals and make a lasting impact on the next generation of innovators.",
+    "stars": 5,
+    "longitude": 8.5320,
+    "latitude": 47.3840,
+    "priceperhour": 23,
+    "city": "Dietikon",
+    "section": "mightlike"
+  },
+  {
+    "id": 9,
+    "name": "Architects of Hope",
+    "description": "Architects of Hope is an organization that focuses on designing and constructing sustainable structures for communities in need. Volunteer with us and contribute to architectural planning, sustainable design projects, and community development initiatives. Together, we can create spaces that enhance quality of life and empower individuals to thrive.",
+    "stars": 4,
+    "longitude": 8.5305,
+    "latitude": 47.3905,
+    "priceperhour": 25,
+    "city": "Schlieren",
+    "section": "mightlike"
+  },
+  {
+    "id": 10,
+    "name": "Office Angels",
+    "description": "Office Angels is a volunteer organization that provides administrative support to nonprofits and community organizations. Join us and lend your organizational and administrative skills to help these organizations operate more efficiently. From data entry to organizing events, your time and expertise will contribute to the success of these vital initiatives.",
+    "stars": 5,
+    "longitude": 8.5265,
+    "latitude": 47.3918,
+    "priceperhour": 24,
+    "city": "Urdorf",
+    "section": "mightlike"
   }
 ]
