@@ -69,6 +69,7 @@
     "latitude": 47.3760,
     "priceperhour": 26,
     "city": "Affoltern am Albis",
+    "image":"images/techsavyminds.png",
     "section": "mightlike"
   },
   {
@@ -80,6 +81,7 @@
     "latitude": 47.3775,
     "priceperhour": 27,
     "city": "Regensdorf",
+    "image":"images/buildforacause.png",
     "section": "mightlike"
   },
   {
@@ -91,6 +93,7 @@
     "latitude": 47.3840,
     "priceperhour": 23,
     "city": "Dietikon",
+    "image":"images/businessminds.png",
     "section": "mightlike"
   },
   {
@@ -102,6 +105,7 @@
     "latitude": 47.3905,
     "priceperhour": 25,
     "city": "Schlieren",
+    "image":"images/architectofhope.png",
     "section": "mightlike"
   },
   {
@@ -113,6 +117,7 @@
     "latitude": 47.3918,
     "priceperhour": 24,
     "city": "Urdorf",
+    "image":"images/officeangels.png",
     "section": "mightlike"
   }
 ]
